@@ -10,26 +10,31 @@ body {
   background: #fff url("../images/bgtile.png") repeat-x;
 }
 
-.inner{
+.inner {
   max-width: 850px;
   margin: 0 auto;
   margin-top: 95px;
-
+  display: inline-block;
 }
 
 .phones {
   display: inline-block;
 }
+.wrapper {
+  vertical-align: top;
+  display: inline-block;
+  width: 300px;
+}
 
 .imagestop {
   display: inline-block;
+  vertical-align: top;
 }
 
-.maintext{
+.maintext {
   background: url("../images/frame.png") no-repeat;
   border: solid red 1px;
   display: inline-block;
-  max-width: auto;
   max-width: 520px;
 }
 
