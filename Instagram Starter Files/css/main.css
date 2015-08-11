@@ -31,6 +31,10 @@ body {
   margin-left: 50px;
 }
 
+/*.insta {
+  padding-right: 30px
+}*/
+
 .home {
   margin-right: 10px;
   vertical-align: middle;
@@ -39,6 +43,7 @@ body {
 button {
 font-size: 17px;
  color: white;
+ background: -webkit-linear-gradient(#6087A6, #33648D);
  background-color: transparent;
  border-color: #1c5380 ;
  border-width: 1px;
