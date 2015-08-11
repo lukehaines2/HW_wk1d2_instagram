@@ -33,10 +33,13 @@ body {
 
 .maintext {
   background: url("../images/frame.png") no-repeat;
-    display: inline-block;
+  display: inline-block;
   max-width: 520px;
   margin-left: 50px;
-  padding: 30px;
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+  padding-left: 30px;
 }
 
 h2 {
@@ -45,6 +48,7 @@ h2 {
 
 footer {
   text-transform: uppercase;
+    text-align: center;
 }
 
 footer ul li {
@@ -55,4 +59,8 @@ footer ul li {
   color: #1c5380;
   /*margin: 30, 0;*/
   font-weight: 800;
+}
+
+.gray {
+  color: grey;
 }
