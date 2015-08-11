@@ -23,7 +23,7 @@ body {
 .wrapper {
   vertical-align: top;
   display: inline-block;
-  width: 300px;
+  width: 510px;
 }
 
 .imagestop {
@@ -38,3 +38,13 @@ body {
   max-width: 520px;
 }
 
+footer {
+  text-transform: uppercase;
+}
+
+li {
+  text-decoration: none;
+  display: inline-block;
+  font-color: #1c5380;
+  margin: 30, 0;
+}
