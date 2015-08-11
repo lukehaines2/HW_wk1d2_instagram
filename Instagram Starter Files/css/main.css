@@ -31,6 +31,24 @@ body {
   margin-left: 50px;
 }
 
+.home {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+button {
+font-size: 17px;
+ color: white;
+ background-color: transparent;
+ border-color: #1c5380 ;
+ border-width: 1px;
+ padding: 8px 15px 8px 10px;
+ float: right;
+ text-align: right;
+ border-radius: 5px 5px 5px 5px;
+ margin-top: 15px;
+}
+
 .maintext {
   background: url("../images/frame.png") no-repeat;
   display: inline-block;
