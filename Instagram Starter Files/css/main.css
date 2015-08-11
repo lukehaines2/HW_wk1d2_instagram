@@ -28,6 +28,7 @@ body {
 .imagestop {
   display: inline-block;
   vertical-align: top;
+  margin-left: 50px;
 }
 
 .maintext {
@@ -47,8 +48,11 @@ footer {
 }
 
 footer ul li {
+  font-size: 10px;
   text-decoration: none;
   display: inline-block;
-  font color: #1c5380;
-  margin: 30, 0;
+  padding-right: 10px;
+  color: #1c5380;
+  /*margin: 30, 0;*/
+  font-weight: 800;
 }
