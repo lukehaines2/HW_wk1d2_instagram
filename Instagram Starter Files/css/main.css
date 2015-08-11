@@ -14,7 +14,6 @@ body {
   max-width: 850px;
   margin: 0 auto;
   margin-top: 95px;
-  display: inline-block;
 }
 
 .phones {
@@ -33,18 +32,23 @@ body {
 
 .maintext {
   background: url("../images/frame.png") no-repeat;
-  border: solid red 1px;
-  display: inline-block;
+    display: inline-block;
   max-width: 520px;
+  margin-left: 50px;
+  padding: 30px;
+}
+
+h2 {
+  color: #06365f;
 }
 
 footer {
   text-transform: uppercase;
 }
 
-li {
+footer ul li {
   text-decoration: none;
   display: inline-block;
-  font-color: #1c5380;
+  font color: #1c5380;
   margin: 30, 0;
 }
